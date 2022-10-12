@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2022-10-12T12:23:55.987Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="oXPsDxhAJ-UVgsu2nDmy" version="20.4.0" type="github">
+  <diagram id="yWwvPQ7X9PmBNxhYb26-" name="第 1 页">
+    <mxGraphModel dx="1018" dy="590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VpSbuUXZv_KaPQMZYxhf-9" value="inter-site" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#B3B3B3;fillColor=#99FFFF;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="427" y="142" width="165" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="VpSbuUXZv_KaPQMZYxhf-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeColor=#FF6666;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="495" y="214" width="29" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="VpSbuUXZv_KaPQMZYxhf-12" value="&lt;a style=&quot;color: rgb(59, 115, 175); text-decoration-line: none; outline: none 0px; position: relative; display: inline-block; box-sizing: border-box; font-family: tahoma, arial, &amp;quot;Hiragino Sans GB&amp;quot;, simsun, sans-serif; text-align: left; background-color: rgba(170, 221, 221, 0.25);&quot; data-hint=&quot;跳转gitlab网页查看工程&quot; target=&quot;_blank&quot; href=&quot;http://gitlab.corp.qunar.com/flight-pifa/f_b2b_opensupplier_nts&quot; class=&quot;git-href hint--top-right&quot;&gt;f_b2b_opensupplier_nts&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="428.5" y="324" width="162" height="64" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
