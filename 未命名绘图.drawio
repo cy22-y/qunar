@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T06:42:26.060Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Vias1UGoOUd5WAopeJ-4" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T06:45:37.247Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KD7Z_AM3UcgsdUWOvQtn" version="20.7.4" type="github">
   <diagram id="yWwvPQ7X9PmBNxhYb26-" name="第 1 页">
     <mxGraphModel dx="1026" dy="593" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
@@ -11,6 +11,9 @@
           <mxGeometry x="436" y="136" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Fqwc9NIt0zZCDV-KgZk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF3333;strokeWidth=3;fontFamily=Helvetica;fontSize=15;fontColor=default;startArrow=none;" edge="1" parent="1" source="_Fqwc9NIt0zZCDV-KgZk-18" target="_Fqwc9NIt0zZCDV-KgZk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Fqwc9NIt0zZCDV-KgZk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;strokeWidth=3;fontFamily=Helvetica;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="_Fqwc9NIt0zZCDV-KgZk-4" target="_Fqwc9NIt0zZCDV-KgZk-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Fqwc9NIt0zZCDV-KgZk-4" value="booking" style="whiteSpace=wrap;html=1;rounded=1;comic=1;strokeColor=#B3B3B3;strokeWidth=2;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=#D5E8D4;" vertex="1" parent="1">
@@ -68,6 +71,9 @@
             <mxPoint x="496" y="452" as="sourcePoint" />
             <mxPoint x="496" y="519" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_Fqwc9NIt0zZCDV-KgZk-33" value="先ota取低价再booking" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;comic=1;strokeColor=#B3B3B3;strokeWidth=2;fontFamily=Helvetica;fontSize=15;fontColor=#000000;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="604" y="252" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
