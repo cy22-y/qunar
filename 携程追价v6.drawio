@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T18:04:14.951Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="20.8.1" etag="xuylAbN_OcQvONYFUNri" type="github"><diagram id="sUvdbKPBxNuxPAdwgjDR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-17T18:29:20.233Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="20.8.1" etag="6hxDtomah6eZ-iT6I4d_" type="github">
+  <diagram id="T2fXDEaLP43cZNYqepnm" name="第 1 页">
+    <mxGraphModel dx="1026" dy="595" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="ActSL_z7uGnzBk-XQTdv-6" target="ActSL_z7uGnzBk-XQTdv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ActSL_z7uGnzBk-XQTdv-6" target="ActSL_z7uGnzBk-XQTdv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-6" value="f_pangolin_search_compare" style="whiteSpace=wrap;html=1;rounded=1;comic=1;strokeColor=#10739e;strokeWidth=2;fontFamily=Helvetica;fontSize=15;fillColor=#b1ddf0;" vertex="1" parent="1">
+          <mxGeometry x="608" y="410" width="197" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-8" value="" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="676.5" y="537.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-9" value="ctrip" style="whiteSpace=wrap;html=1;rounded=1;comic=1;strokeWidth=2;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="608" y="311" width="197" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ActSL_z7uGnzBk-XQTdv-15" target="ActSL_z7uGnzBk-XQTdv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="256" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ActSL_z7uGnzBk-XQTdv-16" target="ActSL_z7uGnzBk-XQTdv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ActSL_z7uGnzBk-XQTdv-16" target="ActSL_z7uGnzBk-XQTdv-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-16" value="f_inter_twell" style="whiteSpace=wrap;html=1;rounded=1;comic=1;strokeColor=#B3B3B3;strokeWidth=2;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=#D5E8D4;align=center;" vertex="1" parent="1">
+          <mxGeometry x="353" y="408" width="161" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-18" value="search" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="288" y="408" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-21" value="kafka" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="412" width="47" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ActSL_z7uGnzBk-XQTdv-24" target="ActSL_z7uGnzBk-XQTdv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-24" value="&lt;span style=&quot;&quot;&gt;f_pangolin_search_post&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;comic=1;strokeColor=#B3B3B3;strokeWidth=2;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=#D5E8D4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="353" y="531" width="161" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-26" value="value = price + timeStamp&lt;br&gt;当前时间戳更新鲜时才写入，&lt;br&gt;同时发送qmq更新post本地缓存" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="715" y="474" width="184" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ActSL_z7uGnzBk-XQTdv-6" target="ActSL_z7uGnzBk-XQTdv-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="573" y="513" as="sourcePoint" />
+            <mxPoint x="623" y="463" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ActSL_z7uGnzBk-XQTdv-30" value="qmq更新本地缓存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="503" width="113" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
