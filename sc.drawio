@@ -7,7 +7,7 @@
         <mxCell id="lY2qgF6DHtgKnWkCwjBA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lY2qgF6DHtgKnWkCwjBA-1" target="lY2qgF6DHtgKnWkCwjBA-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lY2qgF6DHtgKnWkCwjBA-1" value="list请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lY2qgF6DHtgKnWkCwjBA-1" value="list请求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="460" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lY2qgF6DHtgKnWkCwjBA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lY2qgF6DHtgKnWkCwjBA-2" target="lY2qgF6DHtgKnWkCwjBA-5">
@@ -28,7 +28,7 @@
         <mxCell id="lY2qgF6DHtgKnWkCwjBA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lY2qgF6DHtgKnWkCwjBA-8" target="lY2qgF6DHtgKnWkCwjBA-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lY2qgF6DHtgKnWkCwjBA-8" value="OTA请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lY2qgF6DHtgKnWkCwjBA-8" value="OTA请求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="860" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lY2qgF6DHtgKnWkCwjBA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lY2qgF6DHtgKnWkCwjBA-9" target="lY2qgF6DHtgKnWkCwjBA-12">
