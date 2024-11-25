@@ -13,16 +13,16 @@
         <mxCell id="lY2qgF6DHtgKnWkCwjBA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lY2qgF6DHtgKnWkCwjBA-2" target="lY2qgF6DHtgKnWkCwjBA-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lY2qgF6DHtgKnWkCwjBA-2" value="计算所有航班报价结果" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="lY2qgF6DHtgKnWkCwjBA-2" value="计算所有航班报价结果" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="460" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lY2qgF6DHtgKnWkCwjBA-4" value="Redis" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lY2qgF6DHtgKnWkCwjBA-4" value="Redis" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="690" y="560" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lY2qgF6DHtgKnWkCwjBA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lY2qgF6DHtgKnWkCwjBA-5" target="lY2qgF6DHtgKnWkCwjBA-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lY2qgF6DHtgKnWkCwjBA-5" value="缓存list报价结果，并将key标识透传主站" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="lY2qgF6DHtgKnWkCwjBA-5" value="缓存list报价结果，并将key标识透传主站" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="460" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lY2qgF6DHtgKnWkCwjBA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lY2qgF6DHtgKnWkCwjBA-8" target="lY2qgF6DHtgKnWkCwjBA-9">
@@ -34,7 +34,7 @@
         <mxCell id="lY2qgF6DHtgKnWkCwjBA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lY2qgF6DHtgKnWkCwjBA-9" target="lY2qgF6DHtgKnWkCwjBA-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lY2qgF6DHtgKnWkCwjBA-9" value="有透传key时加载list价格缓存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lY2qgF6DHtgKnWkCwjBA-9" value="有透传key时加载list价格缓存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="860" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lY2qgF6DHtgKnWkCwjBA-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="lY2qgF6DHtgKnWkCwjBA-9">
@@ -43,7 +43,7 @@
             <mxPoint x="780" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lY2qgF6DHtgKnWkCwjBA-12" value="价差在一定范围内修正到一致" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lY2qgF6DHtgKnWkCwjBA-12" value="价差在一定范围内修正到一致" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="860" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
